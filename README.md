@@ -34,3 +34,4 @@ That is what I will try oi resolve today. I am going to test other software, as 
 
 The software proposed in that link unfortuntley is only acccesable with the operative system Ubuntu but the operative system i have right now is chromeOS. both are versiions of Linux however i am still not able to run GitKraken and GitAhead in my system.
 
+I have read in [this question in Reddit](https://www.reddit.com/r/github/comments/mrssml/comment/guptdqt/) that another way to do this is directly from my IDE, using "GitHub integration". I am going to try this.
