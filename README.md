@@ -10,7 +10,6 @@ I start almost from scratch, so my objectives are not very ambitious:
 
 I will record my progress below in diary format.
 
-#---
 ## Nov 12, 2023
 
 - I set up an account in GitHub
@@ -20,7 +19,6 @@ I will record my progress below in diary format.
  - I have set up the environment manager Anaconda in my Acer Chromebook 314
  - I have started to learn to use the `pandas` library
 
-#---
 ## Nov 25, 2023
 
 - Anaconda is going to be my environment manager.
@@ -49,4 +47,4 @@ So in my next session I will try:
 - set up my Anaconda cloud account to allow adding extensions.
 - set up a local Anaconda environment where I run JupyterLab in my computer, so I have control over what I install.
 
-#---
+##
