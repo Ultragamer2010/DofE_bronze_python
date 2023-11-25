@@ -30,4 +30,4 @@ I will record my progress below in diary format.
 - A version control system will allow me to save my work without eliminating earlier versions, so I can go back in time and recover an older version of my code if I make a mistake. This will also help me keep a log of my progress for my DofE assessor.
 
 My first aim is to set up my workflow. I can't yet use GitHub Desktop to synchronise my code repository in GitHun with the code in my chromebook.
-That is what I will try oi resolve today. 
+That is what I will try oi resolve today. I am going to test other software, as proposed [here](https://www.systemadmin.uk/other/using-git-on-a-chromebook/)
