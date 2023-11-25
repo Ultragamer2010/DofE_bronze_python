@@ -19,3 +19,5 @@ I will record my progress below in diary format.
  - I have set up the environment manager Anaconda in my Acer Chromebook 314
  - I have started to learn to use the `pandas` library
    
+## Nov 25, 2023
+
