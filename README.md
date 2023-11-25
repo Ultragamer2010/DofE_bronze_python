@@ -21,7 +21,13 @@ I will record my progress below in diary format.
    
 ## Nov 25, 2023
 
-- Anaconda is going to be my environment manager
-- jupyterjab is going to be my ide (interactive development environment)
-- github is gooing to be my version control system
-- an ide is an application that mostly gives and provides comprehensive facilities to help develop software
+- Anaconda is going to be my environment manager.
+- JupyterLab is going to be my IDE (interactive development environment).
+- GitHub is going to be my version control system.
+
+- An IDE is an application that helps develop software by providing a code editor, debugging software, and a system to run the code to check it works.
+- An Environment Manager is an application that helps develop software by providing a controlled environment for the interpretation of the code: I will write my code in Python 3 and will use some specific libraries, like `pandas`, `matplotlib` and `nba_api`), and Anaconda will make sure that my code will be interpreted with the appropriate versions of Python and those and other libraries.
+- A version control system will allow me to save my work without eliminating earlier versions, so I can go back in time and recover an older version of my code if I make a mistake. This will also help me keep a log of my progress for my DofE assessor.
+
+My first aim is to set up my workflow. I can't yet use GitHub Desktop to synchronise my code repository in GitHun with the code in my chromebook.
+That is what I will try oi resolve today. 
