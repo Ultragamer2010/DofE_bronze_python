@@ -24,3 +24,4 @@ I will record my progress below in diary format.
 - Anaconda is going to be my environment manager
 - jupyterjab is going to be my ide (interactive development environment)
 - github is gooing to be my version control system
+- an ide is an application that mostly gives and provides comprehensive facilities to help develop software
