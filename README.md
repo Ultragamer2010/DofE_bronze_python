@@ -22,4 +22,5 @@ I will record my progress below in diary format.
 ## Nov 25, 2023
 
 - Anaconda is going to be my environment manager
--Jupyterjab is going to be my ide (interactive development environment)
+- jupyterjab is going to be my ide (interactive development environment)
+- github is gooing to be my version control system
