@@ -10,6 +10,7 @@ I start almost from scratch, so my objectives are not very ambitious:
 
 I will record my progress below in diary format.
 
+#---
 ## Nov 12, 2023
 
 - I set up an account in GitHub
@@ -18,7 +19,8 @@ I will record my progress below in diary format.
  - I learned a bit of GitHub markdown
  - I have set up the environment manager Anaconda in my Acer Chromebook 314
  - I have started to learn to use the `pandas` library
-   
+
+#---
 ## Nov 25, 2023
 
 - Anaconda is going to be my environment manager.
@@ -35,3 +37,16 @@ That is what I will try oi resolve today. I am going to test other software, as 
 The software proposed in that link unfortuntley is only acccesable with the operative system Ubuntu but the operative system i have right now is chromeOS. both are versiions of Linux however i am still not able to run GitKraken and GitAhead in my system.
 
 I have read in [this question in Reddit](https://www.reddit.com/r/github/comments/mrssml/comment/guptdqt/) that another way to do this is directly from my IDE, using "GitHub integration". I am going to try this.
+
+I have tried to install in my Anaconda enviroment two differnt jupyterlab-github
+
+I have tried installing anaconda environment
+- jupyter-github.
+- jupyter-git.
+
+But this did not work, because I am using Anaconda cloud, and I do not have the permissions to install anything new.
+So in my next session I will try:
+- set up my Anaconda cloud account to allow adding extensions.
+- set up a local Anaconda environment where I run JupyterLab in my computer, so I have control over what I install.
+
+#---
