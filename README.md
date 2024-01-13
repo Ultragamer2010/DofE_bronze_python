@@ -62,7 +62,13 @@ We start today by considering [this list of recommended 'Python online compilers
 - Google Colab: Only Notebook formats, it seems, and there is no way to add 'exotic' modules like `nba_scraper`, and no GitHub integration that we could obviously see
 - Replit: the interface looks like a full IDE, it has GitHub integration, and it can install new libraries (including `nba_scraper`) so we could make the environment we need. It is commercial but there is a free plan. This is the one we are going to try first, though it does not seem to have an obvious way to use Notebooks.
 
-
+### Progress so far with Replit
+Setting up a 'project' or 'repl' in Replit was easy. We quickly imported my existing GitHub repository as a repl, and after some experimenting, managed to 'push' and 'pull' to GitHub from Replit.
+Unfortunately, running code is not straight-forward at all:
+- the 'run' button/command runs the code of a single, specific file within the 'project'! This file is specified in a configuration file `.replit`, and it took us some time to find out how to set this up.
+- even after this was sorted out, the 'virtual machine' that runs our code seems to struggle to find the appropriate language/files/etc to run properly.
+All this because my ChromeBook is not modern/powerful enough!  (ó﹏ò｡)
+We still need to sort some of these problems but today it's been over 2h so we are going to leave this here.
 
 
 
