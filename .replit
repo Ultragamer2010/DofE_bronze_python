@@ -1,5 +1,5 @@
 [deployment]
-run = ["python3", "data_analysis_nba.py"]
+run = "python3 data_analysis_nba.py"
 deploymentTarget = "cloudrun"
 
 [nix]
