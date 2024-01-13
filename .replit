@@ -1,0 +1,12 @@
+[deployment]
+run = ["python3", "data_analysis_nba.py"]
+deploymentTarget = "cloudrun"
+
+[nix]
+channel = "stable-23_11"
+
+entrypoint = "data_analysis_nba.py"
+hidden = [".pythonlibs"]
+
+[unitTest]
+language = "python3"
