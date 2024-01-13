@@ -47,4 +47,24 @@ So in my next session I will try:
 - set up my Anaconda cloud account to allow adding extensions.
 - set up a local Anaconda environment where I run JupyterLab in my computer, so I have control over what I install.
 
-##
+## Jan 13 2024
+
+It is clear now that we cannot run Python locally in my computer. For this, we would need a version of ChromeOS that allows "using Linux" and my computer (an Acer Chromebook 314) is not in [the list of Chromebooks that can support that version of ChromeOS](https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-linux).
+
+So we are going to look for an online platform that allows to code in Python using my computer just as a terminal.
+We are looking for a platform that:
+- Allows me to control my environment, so I can use the NBA scraping libraries.
+- Has integration with GitHub to make my code nicely visible to my DofE assessor.
+
+We start today by considering [this list of recommended 'Python online compilers'](https://noeticforce.com/python-online-compiler-interpreter-code-editors):
+- Paiza.io: this has GitHub integration but we did not like the interface; besides, it did not seem to have many of the libraries we need available, nor can we add more.
+- Trinket.IO: all the usual moduels for data analysis and visualisation seem avalable, (import pandas, import numpy, import scipy, import sklearn) so far so good, however there seems to be no GitHub integration.
+- Google Colab: Only Notebook formats, it seems, and there is no way to add 'exotic' modules like `nba_scraper`, and no GitHub integration that we could obviously see
+- Replit: the interface looks like a full IDE, it has GitHub integration, and it can install new libraries (including `nba_scraper`) so we could make the environment we need. It is commercial but there is a free plan. This is the one we are going to try first, though it does not seem to have an obvious way to use Notebooks.
+
+
+
+
+
+
+
