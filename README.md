@@ -76,16 +76,18 @@ We still need to sort some of these problems but today it's been over 2h so we a
 
 ## Jan 21 2024
 
-when I started this weeks session, sunday 21st, jan 2024, 15:30
-when I ended this weeks session, sunday 21st, jan 2024, 17:01
+Session started:\t 15:30
+Session ended:\t 17:01
 
-- we have given up on trying to find a compilator for my chromebook after many attempted failiures, today we will set up the github, anaconda and jupyter lab on my fathers main computer as the problem before was my chromebook.
+We have given up on trying to find an cloud python compiler so I can use my Chromebook after trying Anaconda Cloud, Google Colab and Replit. None of these allow me to install `nba-scraper`, which I will need to collect NBA data, nor any other library not in their preset environments. 
 
-- we have practised changing and updating my README:
-  - change in github (remote) -> commit-> fetch for desktop-> pull to desktop
+Today we have:
+- set up GitHub, Anaconda manager and Jupyterlab on my father's computer as the problem before was my chromebook.
+- practised using version control making changes to my repository's README file:
+  - change in GitHub (remote) -> commit -> fetch for desktop-> pull to desktop
   - change in desktop (local) -> commit -> push to remote
 
-we have installed nba_scraper however i have put that matter aside and started learning the details on pandas
+We have installed nba_scraper; however, I have put that matter aside and started learning how to use the library `pandas`.
 
 
 
