@@ -75,14 +75,15 @@ All this because my ChromeBook is not modern/powerful enough!
 We still need to sort some of these problems but today it's been over 2h so we are going to leave this here.
 
 ## Jan 21 2024
-when i started this weeks session, sunday 21st, jan 2024, 15:30
-when i ended this weeks session, sunday 21st, jan 2024, 17:01
 
--we have given up on trying to find a compilator for my chromebook after many attempted failiures, today we will set up the github, anaconda and jupyter lab on my fathers main computer as the problem before was my chromebook.
+when I started this weeks session, sunday 21st, jan 2024, 15:30
+when I ended this weeks session, sunday 21st, jan 2024, 17:01
 
-- we have practised changing and updating my README
-- change in github (remote) -> commit-> fetch for desktop-> pull to desktop
-- change in desktop (local) -> commit -> push to remote
+- we have given up on trying to find a compilator for my chromebook after many attempted failiures, today we will set up the github, anaconda and jupyter lab on my fathers main computer as the problem before was my chromebook.
+
+- we have practised changing and updating my README:
+  - change in github (remote) -> commit-> fetch for desktop-> pull to desktop
+  - change in desktop (local) -> commit -> push to remote
 
 we have installed nba_scraper however i have put that matter aside and started learning the details on pandas
 
