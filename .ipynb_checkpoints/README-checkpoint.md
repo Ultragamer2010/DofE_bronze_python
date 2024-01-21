@@ -13,11 +13,11 @@ I will record my progress below in diary format.
 ## Nov 12, 2023
 
 - I set up an account in GitHub
- - I downloaded GitHub desktop
- - I learned what a repository and commit is.
- - I learned a bit of GitHub markdown
- - I have set up the environment manager Anaconda in my Acer Chromebook 314
- - I have started to learn to use the `pandas` library
+- I downloaded GitHub desktop
+- I learned what a repository and commit is.
+- I learned a bit of GitHub markdown
+- I have set up the environment manager Anaconda in my Acer Chromebook 314
+- I have started to learn to use the `pandas` library
 
 ## Nov 25, 2023
 
@@ -83,6 +83,7 @@ It is clear ...
 Bullet points:
 - point 1...
 - point 2...
+- point 3... test
 
 
 
