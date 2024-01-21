@@ -78,7 +78,7 @@ We still need to sort some of these problems but today it's been over 2h so we a
 
 Session started: &nbsp;&nbsp;&nbsp;&nbsp; 15:30
 
-Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:01
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:15
 
 We have given up on trying to find an cloud python compiler so I can use my Chromebook after trying Anaconda Cloud, Google Colab and Replit. None of these allow me to install `nba-scraper`, which I will need to collect NBA data, nor any other library not in their preset environments. 
 
