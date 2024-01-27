@@ -80,9 +80,9 @@ Session started: &nbsp;&nbsp;&nbsp;&nbsp; 15:30
 
 Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:15
 
-We have given up on trying to find an cloud python compiler so I can use my Chromebook after trying Anaconda Cloud, Google Colab and Replit. None of these allow me to install `nba-scraper`, which I will need to collect NBA data, nor any other library not in their preset environments. 
+I have given up on trying to find an cloud python compiler so I can use my Chromebook after trying Anaconda Cloud, Google Colab and Replit. None of these allow me to install `nba-scraper`, which I will need to collect NBA data, nor any other library not in their preset environments. 
 
-Today we have:
+Today I have:
 - set up GitHub, Anaconda manager and Jupyterlab on my father's computer as the problem before was my chromebook.
 - practised using version control making changes to my repository's README file:
   - change in GitHub (remote) -> commit -> fetch for desktop-> pull to desktop
@@ -90,6 +90,16 @@ Today we have:
 
 We have installed nba_scraper; however, I have put that matter aside and started learning how to use the library `pandas`.
 
+
+
+## Jan 27 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 18:10
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 19:15
+
+Today i have been focusing on learning about pandas more and things that surround the topic such as json, and also other things and how to use files and download them to define them in the code. recently been using markdown to structure my code. almost finished my tutorial with 'pandas' and ill finish soon and get  on with scraping nba data propeerly. ive also learned how to clean a file wich will help with the nba scraper. Ive also learned how to select what i want to see when it shows mee the data ,it can be really long and  
+confusing but i can filter it with a command and if i am only intrested in the last few lines i can use a code that only shows x amount of lines starting from the bottom upward.
 
 
 
