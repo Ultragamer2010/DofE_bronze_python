@@ -90,8 +90,6 @@ Today I have:
 
 We have installed nba_scraper; however, I have put that matter aside and started learning how to use the library `pandas`.
 
-
-
 ## Jan 27 2024
 
 Session started: &nbsp;&nbsp;&nbsp;&nbsp; 18:10
@@ -103,3 +101,10 @@ confusing but i can filter it with a command and if i am only intrested in the l
 
 
 
+## Feb 3 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:25
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:40
+
+Today I have ben focusing on learning about `pandas` more again. I have learned about the memory RAM and ROM, I have learned to learned about cleaning wrong formats and a bit of cleaning empty cells, cleaning data, substituting data and changing formats. Today I have done lots of coding and learned theory about hardware. Next week, now that I have learned a sufficient amount of knowledge and coding, I will start to use the `nba_scraper` and learn a bit more about pandas as there is so much to learn! So tomorrow will be a bit of a hybrid lesson.
