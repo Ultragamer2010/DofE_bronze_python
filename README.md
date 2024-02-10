@@ -107,4 +107,15 @@ Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:25
 
 Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:40
 
-Today I have ben focusing on learning about `pandas` more again. I have learned about the memory RAM and ROM, I have learned to learned about cleaning wrong formats and a bit of cleaning empty cells, cleaning data, substituting data and changing formats. Today I have done lots of coding and learned theory about hardware. Next week, now that I have learned a sufficient amount of knowledge and coding, I will start to use the `nba_scraper` and learn a bit more about pandas as there is so much to learn! So tomorrow will be a bit of a hybrid lesson.
+Today I have been focusing on learning about `pandas` more again. I have learned about the memory RAM and ROM, I have learned to learned about cleaning wrong formats and a bit of cleaning empty cells, cleaning data, substituting data and changing formats. Today I have done lots of coding and learned theory about hardware. Next week, now that I have learned a sufficient amount of knowledge and coding, I will start to use the `nba_scraper` and learn a bit more about pandas as there is so much to learn! So tomorrow will be a bit of a hybrid lesson.
+
+
+## Feb 10 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:15
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:40
+
+word definition: API = application programming interface
+
+Today I have been using the `Nba_scraper` however it is quite limited to only the game ID, season, and date of the event. Luckily, we found an alternative called `nba.API` and we managed to make it work using skills i learned in the pandas tutorial such as selecting and filtering lines of code to only what you want to see. The new scaper that we have found `nba.API` has been working very well and we have found it to be capable of giving information on games, seasons, player stats, advanced stats, and even in what state every team comes from and surprisingly abraviations of names of teams and players such as bron = lebron and more. Today I have had lots of fun and look forward to doing the same next week.
