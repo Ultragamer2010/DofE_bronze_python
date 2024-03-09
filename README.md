@@ -119,3 +119,40 @@ Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:40
 word definition: API = application programming interface
 
 Today I have been using the `Nba_scraper` however it is quite limited to only the game ID, season, and date of the event. Luckily, we found an alternative called `nba.API` and we managed to make it work using skills i learned in the pandas tutorial such as selecting and filtering lines of code to only what you want to see. The new scaper that we have found `nba.API` has been working very well and we have found it to be capable of giving information on games, seasons, player stats, advanced stats, and even in what state every team comes from and surprisingly abraviations of names of teams and players such as bron = lebron and more. Today I have had lots of fun and look forward to doing the same next week.
+
+
+
+
+## Feb 17 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:45
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:55
+
+Today I have been using the alternative scraper to nba_scraper and have started using nba_api which seems to be a much smoother and better option. i have been looking at the website tutorial to learn the ropes and test the waters and so far so good however there have been some inconveniences due my lack of expertise and knowledge. however i have been able to follow the instructions from the website and learned a bit on how to navigate and use the features of the scraper. 
+
+
+## Feb 24 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 17:56
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 19:09
+
+Today i have been scrolling through the website a bit however to get a deeper understanding and to a proper walkthrough i looked at the video attached to the webpage. i have been following the guide and have been finding things to do with the code ideas and the suggestion that the guide gives and trying to make sense of the code structure. I have finished the guide but next week i will most likley look back at it for reference.
+
+## Mar 2 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:35
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 17:43
+
+Today i have mainly been playing around with what i learned yesterday, i had fun using the code that i have learned and i also explered a bit to see what worked and what didnt work. i now can look up players in the dictionary stored in the scraper efficiently and have learned to actually use the stats that the scraper gives me and i can project this into a graph and i have learned to add more than one player so i can actually see how well said players did overtime and how they scale to others.
+
+## mar 9 2024
+
+Session started: &nbsp;&nbsp;&nbsp;&nbsp; 16:53
+
+Session ended: &nbsp;&nbsp;&nbsp;&nbsp; 18:00
+
+Today
+
